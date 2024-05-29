@@ -1,0 +1,23 @@
+/content/TTS-TT2/wavs/1.wav|nu aawaa sinttan geeshshatanne borettennaageeta oottidi, inttena i minttetto 
+/content/TTS-TT2/wavs/2.wav|Godai hagaa malaban ubban halo kessiyaagaa gidiyo gishshau, ooninne ha yohuwan ba ishaa naaqqanaunne cimmanau bessenna 
+/content/TTS-TT2/wavs/3.wav|Taani nu ha baaxiya xooniyogaa sirikke 
+/content/TTS-TT2/wavs/4.wav|Seeray naagettiyo sohuwan awaaninne ne kaamiya essana danddayaasa 
+/content/TTS-TT2/wavs/5.wav|Ballanggoy tana mule hegaadan xeelli erenna 
+/content/TTS-TT2/wavs/6.wav|Yniverssttee nuussi injjetiya beero buquraa shiishshiis 
+/content/TTS-TT2/wavs/7.wav|Hegaa gishshau, Maqidooniyaa giyo biittaaninne Akaayiyaa giyo biittan de7iya ammaniya ubbatuyyo leemiso gidideta 
+/content/TTS-TT2/wavs/8.wav|intte ammanuwaabaanne intte siiquwaabaa intteyyo mishiraachcho giidi nuuyyo yootiis 
+/content/TTS-TT2/wavs/9.wav|Tana ba oosuwau sunttidi, tana he oosuwau bessiyaagaa giidi qoodiyo gishshaukka a galatais 
+/content/TTS-TT2/wavs/10.wav|Woosa keettan oottiyaagee issi machchee xalaalai de7iyoogaanne qassi ba naatanne ba keettaa loitti aissiyaagaa gidanau bessees 
+/content/TTS-TT2/wavs/11.wav|woosa keettaa maaddiyaageeta gididi, lo77o ooso oottiyaageeti bantta huuphiyau gita bonchchuwaa demmoosona 
+/content/TTS-TT2/wavs/12.wav|Nu ammanuwaa xuurai gita gidiyoogaa ooninne kashi gaanau danddayenna 
+/content/TTS-TT2/wavs/13.wav|Qassi gallassinne qammi Xoossai o maaddana mala, woossausunne oichchausu 
+/content/TTS-TT2/wavs/14.wav|neeni i nuna ootissiyo wolqqaama oosuwaanne deexo qambbaraa nuuyyo kaushsharkkii 
+/content/TTS-TT2/wavs/15.wav|Ta gil77a biradhdhee ta aawaa xeessaappe orddees 
+/content/TTS-TT2/wavs/16.wav|Hagaa taani oottido gishshau, intte ubbaikka intte soo intte soo simmite yaagees 
+/content/TTS-TT2/wavs/17.wav|eti heezzu laitta kumettaa Solomona na7aa Robi7aama maaddidosona 
+/content/TTS-TT2/wavs/18.wav|Qassi Solomoni worqqaappe ootissido gonddalletakka ekki efiis 
+/content/TTS-TT2/wavs/19.wav|Asi allaga xoossatuyyo yarshshiyo sohotanne goinniyo xoqqa sohuwaa xaissiis 
+/content/TTS-TT2/wavs/20.wav|Kawoi Asi Yihudan de7iya katamatussi qatota medhdhiis 
+/content/TTS-TT2/wavs/21.wav|Kawoi Robi7aami bana minttidi, Yerusalaamen kawotiis 
+/content/TTS-TT2/wavs/22.wav|Abiiyi Yerusalaamen heezzu laitta kawotiis 
+/content/TTS-TT2/wavs/23.wav|Hegaappe guyyiyan, Yihudaa olanchchati ola waasuwaa waassidosona 
